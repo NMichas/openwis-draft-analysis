@@ -7,12 +7,14 @@ Core-GeoNetwork – OpenWIS v4 User interface differences European Dynamics team
 ========================================================================
 
 
+[TOC]
 
-
+<br/>
+<center>
 User views
 ----------
 
- Home
+### Home
 
 
 [![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/1.png?raw=true)](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/1.png)
@@ -27,7 +29,7 @@ OpenWIS v4:
  ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/3.png?raw=true)
 
 
-Search
+###Search
 ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/4.png?raw=true)
  
 OpenWIS v4 introduces new search options: Edit and subscribe 
@@ -58,7 +60,7 @@ Summary
 
 
 
-Map
+###Map
  ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/11.png?raw=true)
 
  
@@ -69,13 +71,16 @@ OpenWIS v4:
 
  ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/13.png?raw=true)
  
-Admin console 
+
+Admin console
+-------------
+
 ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/14.png?raw=true)
 
  ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/15.png?raw=true)
 
 
-Metadata and templates
+###Metadata and templates
   ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/16.png?raw=true)
 
 
@@ -150,7 +155,7 @@ View- edit -suspend/resume –delete Subscription:
  ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/31.png?raw=true)
 
 
-Harvesting
+###Harvesting
 
  ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/32.png?raw=true)
 
@@ -158,7 +163,7 @@ OpenWIS v4 (Additional supports Z2950)
  
  ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/33.png?raw=true)
 
-Statistics and status
+###Statistics and status
   ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/34.png?raw=true)
 
 Core-GeoNetwork options:
@@ -178,7 +183,7 @@ Browse Cache (only OpenWIS v4)
   ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/38.png?raw=true)
 
 
-Standards
+###Standards
  ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/39.png?raw=true) 
 
 Core-GeoNetwork:
@@ -255,3 +260,4 @@ Tools options:
    ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/54.png?raw=true) 
 
 Batch process misc context differences same UI
+</center>
