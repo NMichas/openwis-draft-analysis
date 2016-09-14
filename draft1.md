@@ -4,40 +4,26 @@
 Core-GeoNetwork – OpenWIS v4 User interface differences European Dynamics team
 ========================================================================
 
-
-[toc]
-
-
-
-
 ##### Table of Contents  
 
-[Core-GeoNetwork – OpenWIS v4 User interface differences European Dynamics team](#https://github.com/NMichas/openwis-draft-analysis/blob/master/draft1.md#core-geonetwork--openwis-v4-user-interface-differences-european-dynamics-team)
+[Core-GeoNetwork – OpenWIS v4 User interface differences European Dynamics team](#core-geonetwork--openwis-v4-user-interface-differences-european-dynamics-team)
 
+ [User views](#user-views) 
+: [Home](#home)
+[Search](#search)
+ [Map](#map)
 
+ [Admin console](#admin-console)
+: [Metadata and templates](#metadata-and-templates)
+ [Harvesting ](#harvesting)
+ [Statistics and status ](#statistics-and-status)
+ [Standards](#standards)
+[Users and groups](#users-and-groups)
+[Tools](#tools)
 
-Table of Contents
-User views
-Home
-Search
-Map
-Admin console
-Metadata and templates
-Harvesting
-Statistics and status
-Standards
-
-
-<a name="headers"/>
-
-
-<br/>
-headers
-emphasis
 
 User views
 ----------
-
 
 
 ### Home
@@ -219,7 +205,9 @@ OpenWIS v4 (different UI and Add or update standards new feature)
  
   ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/41.png?raw=true) 
 
- Users and groups
+
+###Users and groups
+ 
    ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/42.png?raw=true) 
 
 Core-GeoNetwork options:
@@ -247,14 +235,11 @@ View- edit -suspend/resume –delete Subscription:
 My requests (OpenWIS v4 only)
 
   ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/47.png?raw=true) 
- 
 
 
- 
-
- 
-
- 
+###Settings
+  
+  
    ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/48.png?raw=true) 
 
 Core-GeoNetwork options:
@@ -273,7 +258,7 @@ Metadata identifier templates (OpenWIS v4)
  
   ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/51.png?raw=true) 
 
-Tools
+###Tools
  
    ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/52.png?raw=true) 
 
