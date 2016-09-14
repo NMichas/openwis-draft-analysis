@@ -4,15 +4,36 @@
 Core-GeoNetwork – OpenWIS v4 User interface differences European Dynamics team
 ========================================================================
 
-Table of contents 
 
- 
 [toc]
 
 
 
-<br/>
 
+##### Table of Contents  
+
+[Core-GeoNetwork – OpenWIS v4 User interface differences European Dynamics team](#https://github.com/NMichas/openwis-draft-analysis/blob/master/draft1.md#core-geonetwork--openwis-v4-user-interface-differences-european-dynamics-team)
+
+
+
+Table of Contents
+User views
+Home
+Search
+Map
+Admin console
+Metadata and templates
+Harvesting
+Statistics and status
+Standards
+
+
+<a name="headers"/>
+
+
+<br/>
+headers
+emphasis
 
 User views
 ----------
