@@ -10,7 +10,7 @@ Core-GeoNetwork – OpenWIS v4 User interface differences European Dynamics team
 [TOC]
 
 <br/>
-<center>
+
 User views
 ----------
 
@@ -260,4 +260,3 @@ Tools options:
    ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/54.png?raw=true) 
 
 Batch process misc context differences same UI
-</center>
