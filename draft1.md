@@ -1,8 +1,6 @@
 
 
 
-
-
 Core-GeoNetwork – OpenWIS v4 User interface differences European Dynamics team
 ========================================================================
 
