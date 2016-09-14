@@ -7,7 +7,7 @@ Core-GeoNetwork – OpenWIS v4 User interface differences European Dynamics team
 
 [Core-GeoNetwork – OpenWIS v4 User interface differences European Dynamics team](#core-geonetwork--openwis-v4-user-interface-differences-european-dynamics-team)
 
-##### Table of Contents  
+### Table of Contents  
 
  Chapter | node
 -------- | ---
