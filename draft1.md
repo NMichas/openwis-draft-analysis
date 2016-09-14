@@ -182,48 +182,76 @@ Standards
  ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/39.png?raw=true) 
 
 Core-GeoNetwork:
- 
+  ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/40.png?raw=true) 
 
 OpenWIS v4 (different UI and Add or update standards new feature)
  
+  ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/41.png?raw=true) 
 
- 
+ Users and groups
+   ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/42.png?raw=true) 
 
 Core-GeoNetwork options:
+   ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/43.png?raw=true) 
  
 
+
+
 OpenWIS v4 options:
- 
+
+![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/44.png?raw=true) 
 
 
 Blacklist (OpenWIS v4 only)
- 
 
+ ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/45.png?raw=true) 
+ 
 My Subscriptions (OpenWIS v4 only same as above)
 
 View- edit -suspend/resume –delete Subscription:
- 
+
+ ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/46.png?raw=true) 
 
 
 My requests (OpenWIS v4 only)
+
+  ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/47.png?raw=true) 
+ 
+
+
  
 
  
+
+ 
+   ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/48.png?raw=true) 
 
 Core-GeoNetwork options:
- 
+
+   ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/49.png?raw=true) 
+
 
 OpenWIS v4 options:
  
+ 
+   ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/50.png?raw=true) 
+
 
 Metadata identifier templates (OpenWIS v4)
 
  
+  ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/51.png?raw=true) 
 
+Tools
  
+   ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/52.png?raw=true) 
 
 Tools options:
  
- 
+
+
+ ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/53.png?raw=true) 
+
+   ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/54.png?raw=true) 
 
 Batch process misc context differences same UI
