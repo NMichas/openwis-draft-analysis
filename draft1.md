@@ -13,7 +13,6 @@ Table of contents
 
 <br/>
 
-<dl align='center'>
 
 User views
 ----------
@@ -267,5 +266,3 @@ Tools options:
 
 Batch process misc context differences same UI
 
-</dl>
- 
