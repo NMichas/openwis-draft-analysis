@@ -4,10 +4,10 @@
 Core-GeoNetwork – OpenWIS v4 User interface differences European Dynamics team
 ========================================================================
 
-##### Table of Contents  
 
 [Core-GeoNetwork – OpenWIS v4 User interface differences European Dynamics team](#core-geonetwork--openwis-v4-user-interface-differences-european-dynamics-team)
 
+##### Table of Contents  
 
  Chapter | node
 -------- | ---
@@ -24,25 +24,6 @@ Core-GeoNetwork – OpenWIS v4 User interface differences European Dynamics team
 || [Tools](#tools)
 
 
-
-| [User views](#user-views)  |
- |[Home](#home)|
-| [Search](#search)|
- | [Map](#map)|
-
- [Admin console](#admin-console)
- 
- [Metadata and templates](#metadata-and-templates)
- 
-[Harvesting ](#harvesting)
-
-[Statistics and status ](#statistics-and-status)
-
- [Standards](#standards)
- 
- [Users and groups](#users-and-groups)
- 
- [Tools](#tools)
  
 
 
