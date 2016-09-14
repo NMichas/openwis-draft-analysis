@@ -82,98 +82,105 @@ Metadata and templates
 
 Core-GeoNetwork metadata and templates options:
 
- 
+  ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/17.png?raw=true)
 
 OpenWIS v4 metadata and templates options:
- 
-Similar UI metadata & templates:
 
-Core-GeoNetwork :
- 
+ ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/18.png?raw=true)
 
+ Similar UI metadata & templates:
+ Core-GeoNetwork :
+ ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/19.png?raw=true)
 
 OpenWIS v4:
+ ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/20.png?raw=true)
  
-
 Scheimatron:
+ ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/21.png?raw=true)
+ 
  
 Core-GeoNetwork:
  
+  ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/22.png?raw=true)
+
 At Sceimatron when user deletes the last record sometimes there is no option to create new one any more (possible Core-GeoNetwork Bug)
+ ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/23.png?raw=true)
+
  
 productMetadata (OpenWIS v4 only)
 
+  ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/23.png?raw=true)
+
  
+  ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/24.png?raw=true)
 
 
  
-View:
- 
+  ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/25.png?raw=true)
+
+ View:
+
+![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/26.png?raw=true)
+
 Edit product info:
+
+  ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/27.png?raw=true)
+
  
 
 Edit metadata:
 
+
  
-
-
-
-
-
-
-
+  ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/28.png?raw=true)
 
 Duplicate:
+
  
+  ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/29.png?raw=true)
+
 Delete
- 
 
-
-
-
+ ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/30.png?raw=true)
 
 Manage Subscriptions (OpenWIS v4 only)
-
 View- edit -suspend/resume –delete Subscription:
- 
+
+
+ ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/31.png?raw=true)
+
 
 Harvesting
- 
+
+ ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/32.png?raw=true)
 
 OpenWIS v4 (Additional supports Z2950)
  
-
+ ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/33.png?raw=true)
 
 Statistics and status
- 
-
+  ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/34.png?raw=true)
 
 Core-GeoNetwork options:
- 
-
-
+  ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/35.png?raw=true)
 
 OpenWIS v4 options:
-
+ ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/36.png?raw=true)
  
 
 OpenWIS statistics (only OpenWIS v4)
 
- 
+  ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/37.png?raw=true)
 
 
 Browse Cache (only OpenWIS v4)
 
- 
-
-
-
-
-
+  ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/38.png?raw=true)
 
 
 Standards
- 
+ ![](https://github.com/NMichas/openwis-draft-analysis/blob/master/img/39.png?raw=true) 
+
 Core-GeoNetwork:
  
 
