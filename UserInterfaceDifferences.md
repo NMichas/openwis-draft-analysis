@@ -1,7 +1,7 @@
 
 
 
-Core-GeoNetwork – OpenWIS v4 User interface differences European Dynamics team
+Core-GeoNetwork – OpenWIS v4 User interface differences
 ========================================================================
 
 
@@ -14,8 +14,7 @@ Core-GeoNetwork – OpenWIS v4 User interface differences European Dynamics team
  [User views](#user-views) |
 ||[Home](#home)
 ||[Search](#search)
-|| [Map](#map)
- [Admin console](#admin-console)|
+[Admin console](#admin-console)|
 || [Metadata and templates](#metadata-and-templates)
 ||[Harvesting ](#harvesting)
 ||[Statistics and status ](#statistics-and-status)
@@ -33,15 +32,9 @@ User views
 
 ### Home
 
-
 [![](https://raw.githubusercontent.com/NMichas/openwis-draft-analysis/master/img/Core-GeoNetwork%20%E2%80%93%20OpenWIS%20v4%20User%20interface%20differences/1.png?raw=true)](https://raw.githubusercontent.com/NMichas/openwis-draft-analysis/master/img/Core-GeoNetwork%20%E2%80%93%20OpenWIS%20v4%20User%20interface%20differences/1.png)
 
 (Minor context differences)
-Core –GeoNetwork:
-![](https://raw.githubusercontent.com/NMichas/openwis-draft-analysis/master/img/Core-GeoNetwork%20%E2%80%93%20OpenWIS%20v4%20User%20interface%20differences/2.png?raw=true)
-
- 
-OpenWIS v4:
  ![](https://raw.githubusercontent.com/NMichas/openwis-draft-analysis/master/img/Core-GeoNetwork%20%E2%80%93%20OpenWIS%20v4%20User%20interface%20differences/3.png?raw=true)
 
 
@@ -56,7 +49,7 @@ Edit metadata (OpenWIS v4 only)
 ![](https://raw.githubusercontent.com/NMichas/openwis-draft-analysis/master/img/Core-GeoNetwork%20%E2%80%93%20OpenWIS%20v4%20User%20interface%20differences/6.png?raw=true) 
 
 
-Subscribe request (OpenWIS v4 only)
+Subscribe request (OpenWIS v4 new feature)
 Option 1
 ![](https://raw.githubusercontent.com/NMichas/openwis-draft-analysis/master/img/Core-GeoNetwork%20%E2%80%93%20OpenWIS%20v4%20User%20interface%20differences/7.png?raw=true)
 
@@ -75,19 +68,7 @@ Summary
   ![](https://raw.githubusercontent.com/NMichas/openwis-draft-analysis/master/img/Core-GeoNetwork%20%E2%80%93%20OpenWIS%20v4%20User%20interface%20differences/10.png?raw=true)
 
 
-
-###Map
- ![](https://raw.githubusercontent.com/NMichas/openwis-draft-analysis/master/img/Core-GeoNetwork%20%E2%80%93%20OpenWIS%20v4%20User%20interface%20differences/11.png?raw=true)
-
  
-Core-GeoNetwork:
-  ![](https://raw.githubusercontent.com/NMichas/openwis-draft-analysis/master/img/Core-GeoNetwork%20%E2%80%93%20OpenWIS%20v4%20User%20interface%20differences/12.png?raw=true)
-
-OpenWIS v4:
-
- ![](https://raw.githubusercontent.com/NMichas/openwis-draft-analysis/master/img/Core-GeoNetwork%20%E2%80%93%20OpenWIS%20v4%20User%20interface%20differences/13.png?raw=true)
- 
-
 Admin console
 -------------
 
@@ -100,41 +81,19 @@ Admin console
   ![](https://raw.githubusercontent.com/NMichas/openwis-draft-analysis/master/img/Core-GeoNetwork%20%E2%80%93%20OpenWIS%20v4%20User%20interface%20differences/16.png?raw=true)
 
 
-
-Core-GeoNetwork metadata and templates options:
-
-  ![](https://raw.githubusercontent.com/NMichas/openwis-draft-analysis/master/img/Core-GeoNetwork%20%E2%80%93%20OpenWIS%20v4%20User%20interface%20differences/17.png?raw=true)
-
 OpenWIS v4 metadata and templates options:
 
  ![](https://raw.githubusercontent.com/NMichas/openwis-draft-analysis/master/img/Core-GeoNetwork%20%E2%80%93%20OpenWIS%20v4%20User%20interface%20differences/18.png?raw=true)
 
  Similar UI metadata & templates:
- Core-GeoNetwork :
- ![](https://raw.githubusercontent.com/NMichas/openwis-draft-analysis/master/img/Core-GeoNetwork%20%E2%80%93%20OpenWIS%20v4%20User%20interface%20differences/19.png?raw=true)
-
-OpenWIS v4:
  ![](https://raw.githubusercontent.com/NMichas/openwis-draft-analysis/master/img/Core-GeoNetwork%20%E2%80%93%20OpenWIS%20v4%20User%20interface%20differences/20.png?raw=true)
  
-Scheimatron:
- ![](https://raw.githubusercontent.com/NMichas/openwis-draft-analysis/master/img/Core-GeoNetwork%20%E2%80%93%20OpenWIS%20v4%20User%20interface%20differences/21.png?raw=true)
  
- 
-Core-GeoNetwork:
- 
-  ![](https://raw.githubusercontent.com/NMichas/openwis-draft-analysis/master/img/Core-GeoNetwork%20%E2%80%93%20OpenWIS%20v4%20User%20interface%20differences/22.png?raw=true)
 
-At Sceimatron when user deletes the last record sometimes there is no option to create new one any more (possible Core-GeoNetwork Bug)
- ![](https://raw.githubusercontent.com/NMichas/openwis-draft-analysis/master/img/Core-GeoNetwork%20%E2%80%93%20OpenWIS%20v4%20User%20interface%20differences/23.png?raw=true)
-
- 
-productMetadata (OpenWIS v4 only)
-
-  ![](https://raw.githubusercontent.com/NMichas/openwis-draft-analysis/master/img/Core-GeoNetwork%20%E2%80%93%20OpenWIS%20v4%20User%20interface%20differences/23.png?raw=true)
+ productMetadata (OpenWIS v4 new feature)
 
  
   ![](https://raw.githubusercontent.com/NMichas/openwis-draft-analysis/master/img/Core-GeoNetwork%20%E2%80%93%20OpenWIS%20v4%20User%20interface%20differences/24.png?raw=true)
-
 
  
   ![](https://raw.githubusercontent.com/NMichas/openwis-draft-analysis/master/img/Core-GeoNetwork%20%E2%80%93%20OpenWIS%20v4%20User%20interface%20differences/25.png?raw=true)
@@ -182,19 +141,17 @@ OpenWIS v4 (Additional supports Z2950)
 ###Statistics and status
   ![](https://raw.githubusercontent.com/NMichas/openwis-draft-analysis/master/img/Core-GeoNetwork%20%E2%80%93%20OpenWIS%20v4%20User%20interface%20differences/34.png?raw=true)
 
-Core-GeoNetwork options:
-  ![](https://raw.githubusercontent.com/NMichas/openwis-draft-analysis/master/img/Core-GeoNetwork%20%E2%80%93%20OpenWIS%20v4%20User%20interface%20differences/35.png?raw=true)
 
 OpenWIS v4 options:
  ![](https://raw.githubusercontent.com/NMichas/openwis-draft-analysis/master/img/Core-GeoNetwork%20%E2%80%93%20OpenWIS%20v4%20User%20interface%20differences/36.png?raw=true)
  
 
-OpenWIS statistics (only OpenWIS v4)
+OpenWIS statistics (OpenWIS v4 new feature)
 
   ![](https://raw.githubusercontent.com/NMichas/openwis-draft-analysis/master/img/Core-GeoNetwork%20%E2%80%93%20OpenWIS%20v4%20User%20interface%20differences/37.png?raw=true)
 
 
-Browse Cache (only OpenWIS v4)
+Browse Cache (OpenWIS v4 new feature)
 
   ![](https://raw.githubusercontent.com/NMichas/openwis-draft-analysis/master/img/Core-GeoNetwork%20%E2%80%93%20OpenWIS%20v4%20User%20interface%20differences/38.png?raw=true)
 
@@ -202,8 +159,6 @@ Browse Cache (only OpenWIS v4)
 ###Standards
  ![](https://raw.githubusercontent.com/NMichas/openwis-draft-analysis/master/img/Core-GeoNetwork%20%E2%80%93%20OpenWIS%20v4%20User%20interface%20differences/39.png?raw=true) 
 
-Core-GeoNetwork:
-  ![](https://raw.githubusercontent.com/NMichas/openwis-draft-analysis/master/img/Core-GeoNetwork%20%E2%80%93%20OpenWIS%20v4%20User%20interface%20differences/40.png?raw=true) 
 
 OpenWIS v4 (different UI and Add or update standards new feature)
  
@@ -214,10 +169,6 @@ OpenWIS v4 (different UI and Add or update standards new feature)
  
    ![](https://raw.githubusercontent.com/NMichas/openwis-draft-analysis/master/img/Core-GeoNetwork%20%E2%80%93%20OpenWIS%20v4%20User%20interface%20differences/42.png?raw=true) 
 
-Core-GeoNetwork options:
-   ![](https://raw.githubusercontent.com/NMichas/openwis-draft-analysis/master/img/Core-GeoNetwork%20%E2%80%93%20OpenWIS%20v4%20User%20interface%20differences/43.png?raw=true) 
- 
-
 
 
 OpenWIS v4 options:
@@ -225,7 +176,7 @@ OpenWIS v4 options:
 ![](https://raw.githubusercontent.com/NMichas/openwis-draft-analysis/master/img/Core-GeoNetwork%20%E2%80%93%20OpenWIS%20v4%20User%20interface%20differences/44.png?raw=true) 
 
 
-Blacklist (OpenWIS v4 only)
+Blacklist (OpenWIS v4 new Feature)
 
  ![](https://raw.githubusercontent.com/NMichas/openwis-draft-analysis/master/img/Core-GeoNetwork%20%E2%80%93%20OpenWIS%20v4%20User%20interface%20differences/45.png?raw=true) 
  
@@ -236,7 +187,7 @@ View- edit -suspend/resume –delete Subscription:
  ![](https://raw.githubusercontent.com/NMichas/openwis-draft-analysis/master/img/Core-GeoNetwork%20%E2%80%93%20OpenWIS%20v4%20User%20interface%20differences/46.png?raw=true) 
 
 
-My requests (OpenWIS v4 only)
+My requests (OpenWIS v4 new Feature)
 
   ![](https://raw.githubusercontent.com/NMichas/openwis-draft-analysis/master/img/Core-GeoNetwork%20%E2%80%93%20OpenWIS%20v4%20User%20interface%20differences/47.png?raw=true) 
 
@@ -246,19 +197,12 @@ My requests (OpenWIS v4 only)
   
    ![](https://raw.githubusercontent.com/NMichas/openwis-draft-analysis/master/img/Core-GeoNetwork%20%E2%80%93%20OpenWIS%20v4%20User%20interface%20differences/48.png?raw=true) 
 
-Core-GeoNetwork options:
-
-   ![](https://raw.githubusercontent.com/NMichas/openwis-draft-analysis/master/img/Core-GeoNetwork%20%E2%80%93%20OpenWIS%20v4%20User%20interface%20differences/49.png?raw=true) 
-
-
 OpenWIS v4 options:
- 
- 
+  
    ![](https://raw.githubusercontent.com/NMichas/openwis-draft-analysis/master/img/Core-GeoNetwork%20%E2%80%93%20OpenWIS%20v4%20User%20interface%20differences/50.png?raw=true) 
 
 
-Metadata identifier templates (OpenWIS v4)
-
+Metadata identifier templates 
  
   ![](https://raw.githubusercontent.com/NMichas/openwis-draft-analysis/master/img/Core-GeoNetwork%20%E2%80%93%20OpenWIS%20v4%20User%20interface%20differences/51.png?raw=true) 
 
